@@ -1,4 +1,4 @@
-<h1><b>fIrst Mobile Portfolio second project</b></h1>
+<h1><b> first Mobile Portfolio second project</b></h1>
 
 # 📗 Table of Contents
 
