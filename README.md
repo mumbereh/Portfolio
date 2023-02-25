@@ -1,4 +1,4 @@
-<h1><b>fIrst Mobile Portfolio</b></h1>
+<h1><b>fIrst Mobile Portfolio second project</b></h1>
 
 # 📗 Table of Contents
 
@@ -22,8 +22,8 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Setup first mobile Portfolio  <a name="about-project"></a>
-This repository is about Seting up a new repository and prepare it for development using best practices (e.g. linters).
+# 📖 Setup first mobile Portfolio  seconnd project <a name="about-project"></a>
+This repository is a continuetion of Setup first mobile Portfolio project that covers the  Seting up of a new repository and prepare it for development using best practices (e.g. linters).
 
 >
 
@@ -152,6 +152,7 @@ If you like this project, kindly contact me on my github: Authors](#authors)
 
 I would like to thank Microverse team for the best technical training they're taking me through
 I would like to thank my partners in learning and coding for the day to day guidance whenever I stuck. 
+I would like to thank my code reviewer have guiding me to produce required results
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
